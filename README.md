@@ -5,7 +5,7 @@ Azure Signalr Service running on ASP.NET Core within a container fails to connec
 
 ### To Reproduce
 
-Sammple code and instructions to reporduce: https://github.com/urbanantics/signalr-container-issue
+Sample code and instructions to reproduce: https://github.com/urbanantics/signalr-container-issue
 
 The code in this repo was created based on the Microsoft Azure Signalr quickstart https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-dotnet-core
 
