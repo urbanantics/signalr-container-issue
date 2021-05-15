@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.SignalR;
 using System.Threading.Tasks;
 
-namespace delete_me
+namespace chat_app
 {
     public class ChatHub : Hub
     {

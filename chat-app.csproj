@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>delete_me</RootNamespace>
+    <RootNamespace>chat_app</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
